@@ -9,7 +9,7 @@ A web-based **handmade craft showcase application** developed to display craft p
 - Basic backend integration
 
 ## 🛠️ Technologies
-HTML • CSS • JAVASCRIPT • PHP • XAMPP (MySQL)
+HTML • CSS • Javascript • PHP • XAMPP (MySQL)
 
 ## 🚀 How to Run
 1. Install XAMPP  
