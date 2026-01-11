@@ -1,17 +1,26 @@
 # 🎨 HandyCraft Website
 
-A creative **Hand-made craft themed site** that showcases products and creative services.
+A web-based **handmade craft showcase application** developed to display craft products with backend support.
 
 ## ✨ Features
-- Product or project showcase
-- Simple navigation
-- Static pages with clean CSS
+- Display handmade craft products
+- Dynamic data handling using database
+- Simple and user-friendly interface
+- Basic backend integration
 
 ## 🛠️ Technologies
-HTML • CSS • JAVASCRIPT • PHP • MySQL
+HTML • CSS • JAVASCRIPT • PHP • XAMPP (MySQL)
 
-## 🚀 To View
-Open `index.html` in your browser.
+## 🚀 How to Run
+1. Install XAMPP  
+2. Place the project folder in `htdocs`  
+3. Import the MySQL database  
+4. Update database configuration in PHP files  
+5. Start Apache and MySQL  
+6. Open in browser
 
-## 📌 Purpose
-Designed as a beginner frontend project to practice layout and visual styling.
+## 🎯 Purpose
+Built as an academic project to practice **PHP, database connectivity, and frontend design**.
+
+## 📌 Disclaimer
+This project is for educational and portfolio purposes only.
